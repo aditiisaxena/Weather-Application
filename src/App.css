@@ -1,0 +1,43 @@
+:root {
+  --font-family: 'Inter', sans-serif;
+}
+
+body {
+  font-family: var(--font-family); 
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.sticky-search-bar {
+  position: sticky;
+  top: 0; 
+  z-index: 101; 
+  background-color: #0b121e; 
+  padding: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0.7, 0.2, 0.3); 
+  border-radius: 10px;
+}
+
+.middle-column {
+  position: relative;
+  height: 100vh; 
+  overflow-y: auto; 
+  transition: padding-top 0.3s ease; 
+}
+
+.middle-column::-webkit-scrollbar {
+  width: 0px; 
+  background: transparent;
+}
+
+.forecast-heading {
+  text-align: left;
+  font-size: 1.5rem; 
+  margin-bottom: 1rem; 
+  color: #b0b8c2;
+}
+
+.p-3 .forecast-heading{
+  text-align: center;
+}
