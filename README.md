@@ -42,7 +42,7 @@ This is a feature-rich weather web application that provides real-time and forec
 - **Bootstrap**: Ensures responsiveness across various devices and screen sizes.
 
 ### **Charts**
-- **GraphJS**: For rendering the temperature graph dynamically.
+- **ChartsJS**: For rendering the temperature graph dynamically.
 
 ---
 
@@ -71,7 +71,8 @@ Follow the steps below to set up and run the application:
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/aditiisaxena/Weather-Application
+   git clone <repository_url>
+   cd <repository_directory>
    ```
 
 2. **Install Dependencies**  
@@ -89,7 +90,7 @@ Follow the steps below to set up and run the application:
 ---
 
 ## Credits 
-- **ChatGPT**: For assisting with development logic and documentation.
+- **ChatGPT**: For assisting with development logic and guidence.
 - Referenced APIs, Gists, and design tools as listed above.
 ___
 
