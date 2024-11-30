@@ -71,8 +71,7 @@ Follow the steps below to set up and run the application:
 
 1. **Clone the Repository**  
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/aditiisaxena/Weather-Application
    ```
 
 2. **Install Dependencies**  
