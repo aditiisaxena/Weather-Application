@@ -13,7 +13,7 @@ body {
   position: sticky;
   top: 0; 
   z-index: 101; 
-  background-color: #0b121e; 
+  background-color: #1c1c1c; 
   padding: 10px;
   box-shadow: 0 2px 5px rgba(0, 0.7, 0.2, 0.3); 
   border-radius: 10px;
